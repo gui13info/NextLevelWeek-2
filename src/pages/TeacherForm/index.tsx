@@ -78,7 +78,7 @@ function handleCreateClass(e: FormEvent){
     return(
         <div id="page-teacher-form" className="container">
             <PageHeader 
-                title="Que increvel que você quer dar aulas" 
+                title="Que incrível que você quer dar aulas" 
                 description="O primeiro passa é preencher esse formulário de inscrição."
             />
 
