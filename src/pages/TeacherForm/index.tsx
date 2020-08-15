@@ -200,7 +200,7 @@ function handleCreateClass(e: FormEvent){
                             Preencha todos os dados.
                         </p>
                         <button type="submit">
-                            Savar cadastro
+                            Salvar cadastro
                         </button>
                     </footer>
                 </form>
