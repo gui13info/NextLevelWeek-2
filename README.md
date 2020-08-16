@@ -7,3 +7,10 @@
 ## Versão WEB :computer:
 <p align= "center">
 <img src= "screen/landing.png" >
+<img src= "screen/list.png" >
+
+## Techs :mortar_board:
+- **JS**
+- **TypeScript**
+- **NodeJS**
+- **ReactJS**
